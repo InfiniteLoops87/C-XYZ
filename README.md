@@ -1,6 +1,6 @@
 # C-XYZ  
 
->[!CAUTION]
+>[!WARNING]
 >This page is a W.I.P.
 
 
