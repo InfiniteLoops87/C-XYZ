@@ -1,4 +1,5 @@
-![]https://img.shields.io/github/stars/infiniteloops87/c-xyz
+![GitHub Stars]https://img.shields.io/github/stars/InfiniteLoops87/C-XYZ 
+
 # C-XYZ  
 
 >[!WARNING]
