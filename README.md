@@ -1,3 +1,4 @@
+![]https://img.shields.io/github/stars/infiniteloops87/c-xyz
 # C-XYZ  
 
 >[!WARNING]
