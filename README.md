@@ -1,4 +1,4 @@
-![GitHub Stars]https://img.shields.io/github/stars/InfiniteLoops87/C-XYZ 
+![GitHub Stars](https://img.shields.io/github/stars/InfiniteLoops87/C-XYZ)
 
 # C-XYZ  
 
