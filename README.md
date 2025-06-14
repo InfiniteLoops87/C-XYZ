@@ -1,4 +1,5 @@
-![GitHub Stars](https://img.shields.io/github/stars/InfiniteLoops87/C-XYZ)
+![Stars](https://img.shields.io/github/stars/InfiniteLoops87/C-XYZ)
+![Forks](https://img.shields.io/github/forks/InfiniteLoops87/C-XYZ)
 
 # C-XYZ  
 
